@@ -1,0 +1,102 @@
+[
+    {
+        "sentence": "Good morning! How are you?",
+        "translation": "A common greeting used in the morning.",
+        "context": "Greeting someone in the morning"
+    },
+    {
+        "sentence": "My name is Alex. Nice to meet you.",
+        "translation": "Introducing yourself to someone new.",
+        "context": "Self introduction"
+    },
+    {
+        "sentence": "Where is the nearest bus stop?",
+        "translation": "Asking for directions to a bus stop.",
+        "context": "Asking for directions"
+    },
+    {
+        "sentence": "Can I have a glass of water, please?",
+        "translation": "Politely requesting water.",
+        "context": "Ordering at a restaurant"
+    },
+    {
+        "sentence": "I would like to buy this book.",
+        "translation": "Expressing the desire to purchase a book.",
+        "context": "Shopping"
+    },
+    {
+        "sentence": "What time does the train leave?",
+        "translation": "Asking about the train schedule.",
+        "context": "Travel"
+    },
+    {
+        "sentence": "I am learning a new language.",
+        "translation": "Telling someone about your studies.",
+        "context": "Talking about hobbies"
+    },
+    {
+        "sentence": "The weather is very nice today.",
+        "translation": "Commenting on pleasant weather.",
+        "context": "Small talk"
+    },
+    {
+        "sentence": "Could you help me with this problem?",
+        "translation": "Requesting assistance politely.",
+        "context": "Asking for help"
+    },
+    {
+        "sentence": "I enjoy reading books in my free time.",
+        "translation": "Sharing a hobby with someone.",
+        "context": "Talking about hobbies"
+    },
+    {
+        "sentence": "She goes to school every day.",
+        "translation": "Describing a daily routine.",
+        "context": "Daily routine"
+    },
+    {
+        "sentence": "We had a wonderful time at the park.",
+        "translation": "Sharing a positive experience.",
+        "context": "Sharing experiences"
+    },
+    {
+        "sentence": "Please turn off the lights before leaving.",
+        "translation": "Making a polite request.",
+        "context": "Instructions"
+    },
+    {
+        "sentence": "I will call you tomorrow morning.",
+        "translation": "Making a plan to contact someone.",
+        "context": "Making plans"
+    },
+    {
+        "sentence": "This is my favorite song.",
+        "translation": "Expressing a preference.",
+        "context": "Sharing preferences"
+    },
+    {
+        "sentence": "How much does this cost?",
+        "translation": "Asking about the price of something.",
+        "context": "Shopping"
+    },
+    {
+        "sentence": "I am sorry, I did not understand.",
+        "translation": "Apologizing and asking for clarification.",
+        "context": "Conversation"
+    },
+    {
+        "sentence": "Let us meet at the coffee shop.",
+        "translation": "Suggesting a meeting place.",
+        "context": "Making plans"
+    },
+    {
+        "sentence": "Thank you for your help. I appreciate it.",
+        "translation": "Expressing gratitude.",
+        "context": "Showing appreciation"
+    },
+    {
+        "sentence": "Have a great day! See you later.",
+        "translation": "Wishing someone well and saying goodbye.",
+        "context": "Farewell"
+    }
+]

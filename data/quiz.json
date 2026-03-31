@@ -1,0 +1,1130 @@
+{
+    "english": {
+        "alphabets": [
+            {
+                "question": "Which letter comes after 'D'?",
+                "options": [
+                    "E",
+                    "F",
+                    "C",
+                    "G"
+                ],
+                "answer": "E"
+            },
+            {
+                "question": "How many letters are in the English alphabet?",
+                "options": [
+                    "24",
+                    "25",
+                    "26",
+                    "27"
+                ],
+                "answer": "26"
+            },
+            {
+                "question": "Which letter comes before 'M'?",
+                "options": [
+                    "K",
+                    "L",
+                    "N",
+                    "O"
+                ],
+                "answer": "L"
+            },
+            {
+                "question": "Which of these is a vowel?",
+                "options": [
+                    "B",
+                    "C",
+                    "E",
+                    "D"
+                ],
+                "answer": "E"
+            },
+            {
+                "question": "What is the last letter of the English alphabet?",
+                "options": [
+                    "X",
+                    "Y",
+                    "Z",
+                    "W"
+                ],
+                "answer": "Z"
+            },
+            {
+                "question": "Which letter sounds like 'double-you'?",
+                "options": [
+                    "V",
+                    "U",
+                    "W",
+                    "Y"
+                ],
+                "answer": "W"
+            }
+        ],
+        "words": [
+            {
+                "question": "What does 'Happy' mean?",
+                "options": [
+                    "Feeling angry",
+                    "Feeling pleasure",
+                    "Feeling tired",
+                    "Feeling scared"
+                ],
+                "answer": "Feeling pleasure"
+            },
+            {
+                "question": "What is the opposite of 'Big'?",
+                "options": [
+                    "Tall",
+                    "Wide",
+                    "Small",
+                    "Long"
+                ],
+                "answer": "Small"
+            },
+            {
+                "question": "Which word means 'to move quickly on foot'?",
+                "options": [
+                    "Walk",
+                    "Sit",
+                    "Run",
+                    "Stand"
+                ],
+                "answer": "Run"
+            },
+            {
+                "question": "What does 'Goodbye' express?",
+                "options": [
+                    "A greeting",
+                    "A farewell",
+                    "An apology",
+                    "A question"
+                ],
+                "answer": "A farewell"
+            },
+            {
+                "question": "What does 'Beautiful' mean?",
+                "options": [
+                    "Ugly",
+                    "Pleasing to look at",
+                    "Very fast",
+                    "Very small"
+                ],
+                "answer": "Pleasing to look at"
+            },
+            {
+                "question": "Which word means 'to consume food'?",
+                "options": [
+                    "Drink",
+                    "Eat",
+                    "Sleep",
+                    "Read"
+                ],
+                "answer": "Eat"
+            }
+        ],
+        "sentences": [
+            {
+                "question": "What is 'Good morning! How are you?' used for?",
+                "options": [
+                    "Saying goodbye",
+                    "Greeting someone",
+                    "Ordering food",
+                    "Giving directions"
+                ],
+                "answer": "Greeting someone"
+            },
+            {
+                "question": "Which sentence would you use at a shop?",
+                "options": [
+                    "I am learning a new language.",
+                    "How much does this cost?",
+                    "The weather is nice.",
+                    "See you tomorrow!"
+                ],
+                "answer": "How much does this cost?"
+            },
+            {
+                "question": "'Could you help me?' expresses what?",
+                "options": [
+                    "A complaint",
+                    "A greeting",
+                    "A request for help",
+                    "An order"
+                ],
+                "answer": "A request for help"
+            },
+            {
+                "question": "Which sentence is about daily routine?",
+                "options": [
+                    "This is my friend.",
+                    "She goes to school every day.",
+                    "How much does this cost?",
+                    "Thank you for your help."
+                ],
+                "answer": "She goes to school every day."
+            },
+            {
+                "question": "Which sentence expresses gratitude?",
+                "options": [
+                    "Where is the bus stop?",
+                    "I don't understand.",
+                    "Thank you for your help.",
+                    "What time is it?"
+                ],
+                "answer": "Thank you for your help."
+            },
+            {
+                "question": "What would you say to introduce yourself?",
+                "options": [
+                    "How much does this cost?",
+                    "My name is Alex.",
+                    "The weather is nice.",
+                    "See you tomorrow!"
+                ],
+                "answer": "My name is Alex."
+            }
+        ]
+    },
+    "hindi": {
+        "alphabets": [
+            {
+                "question": "'क' का उच्चारण क्या है?",
+                "options": [
+                    "ka",
+                    "kha",
+                    "ga",
+                    "cha"
+                ],
+                "answer": "ka"
+            },
+            {
+                "question": "'अ' के बाद कौन सा स्वर आता है?",
+                "options": [
+                    "इ",
+                    "आ",
+                    "उ",
+                    "ए"
+                ],
+                "answer": "आ"
+            },
+            {
+                "question": "हिंदी में कितने स्वर हैं?",
+                "options": [
+                    "10",
+                    "11",
+                    "12",
+                    "13"
+                ],
+                "answer": "11"
+            },
+            {
+                "question": "'म' का उच्चारण क्या है?",
+                "options": [
+                    "na",
+                    "ma",
+                    "ya",
+                    "ra"
+                ],
+                "answer": "ma"
+            },
+            {
+                "question": "कौन सा अक्षर 'pha' जैसा लगता है?",
+                "options": [
+                    "प",
+                    "फ",
+                    "ब",
+                    "भ"
+                ],
+                "answer": "फ"
+            },
+            {
+                "question": "'ग' के बाद कौन सा अक्षर आता है?",
+                "options": [
+                    "च",
+                    "घ",
+                    "ङ",
+                    "क"
+                ],
+                "answer": "घ"
+            }
+        ],
+        "words": [
+            {
+                "question": "'नमस्ते' का क्या मतलब है?",
+                "options": [
+                    "अलविदा",
+                    "अभिवादन",
+                    "धन्यवाद",
+                    "माफी"
+                ],
+                "answer": "अभिवादन"
+            },
+            {
+                "question": "'पानी' किस श्रेणी में आता है?",
+                "options": [
+                    "लोग",
+                    "खाना-पीना",
+                    "स्थान",
+                    "समय"
+                ],
+                "answer": "खाना-पीना"
+            },
+            {
+                "question": "'खुश' का विपरीत क्या है?",
+                "options": [
+                    "बड़ा",
+                    "सुंदर",
+                    "उदास",
+                    "अच्छा"
+                ],
+                "answer": "उदास"
+            },
+            {
+                "question": "'शिक्षक' का क्या मतलब है?",
+                "options": [
+                    "छात्र",
+                    "पढ़ाने वाला",
+                    "दोस्त",
+                    "भाई"
+                ],
+                "answer": "पढ़ाने वाला"
+            },
+            {
+                "question": "'किताब' किस श्रेणी में आता है?",
+                "options": [
+                    "स्थान",
+                    "वस्तुएं",
+                    "लोग",
+                    "समय"
+                ],
+                "answer": "वस्तुएं"
+            },
+            {
+                "question": "'आज' किस श्रेणी में आता है?",
+                "options": [
+                    "भावनाएं",
+                    "स्थान",
+                    "समय",
+                    "लोग"
+                ],
+                "answer": "समय"
+            }
+        ],
+        "sentences": [
+            {
+                "question": "'सुप्रभात! आप कैसे हैं?' किसलिए प्रयोग होता है?",
+                "options": [
+                    "विदाई",
+                    "अभिवादन",
+                    "खरीदारी",
+                    "दिशा पूछना"
+                ],
+                "answer": "अभिवादन"
+            },
+            {
+                "question": "दुकान में कौन सा वाक्य कहेंगे?",
+                "options": [
+                    "मेरा नाम एलेक्स है।",
+                    "इसकी कीमत कितनी है?",
+                    "आज मौसम अच्छा है।",
+                    "कल मिलते हैं!"
+                ],
+                "answer": "इसकी कीमत कितनी है?"
+            },
+            {
+                "question": "आभार व्यक्त करने के लिए कौन सा वाक्य है?",
+                "options": [
+                    "बस स्टॉप कहाँ है?",
+                    "माफ़ करें।",
+                    "धन्यवाद आपकी मदद के लिए।",
+                    "कितने बजे हैं?"
+                ],
+                "answer": "धन्यवाद आपकी मदद के लिए।"
+            },
+            {
+                "question": "अपना परिचय देने के लिए क्या कहेंगे?",
+                "options": [
+                    "इसकी कीमत कितनी है?",
+                    "मेरा नाम एलेक्स है।",
+                    "मौसम अच्छा है।",
+                    "कल मिलते हैं!"
+                ],
+                "answer": "मेरा नाम एलेक्स है।"
+            },
+            {
+                "question": "दैनिक दिनचर्या के बारे में कौन सा वाक्य है?",
+                "options": [
+                    "यह मेरा दोस्त है।",
+                    "वह हर दिन स्कूल जाती है।",
+                    "इसकी कीमत कितनी है?",
+                    "धन्यवाद।"
+                ],
+                "answer": "वह हर दिन स्कूल जाती है।"
+            },
+            {
+                "question": "विदाई के लिए कौन सा वाक्य है?",
+                "options": [
+                    "सुप्रभात!",
+                    "मुझे किताबें पसंद हैं।",
+                    "कल मिलते हैं!",
+                    "मदद करें।"
+                ],
+                "answer": "कल मिलते हैं!"
+            }
+        ]
+    },
+    "spanish": {
+        "alphabets": [
+            {
+                "question": "Which letter is unique to Spanish?",
+                "options": [
+                    "A",
+                    "Ñ",
+                    "B",
+                    "Z"
+                ],
+                "answer": "Ñ"
+            },
+            {
+                "question": "How is 'J' pronounced in Spanish?",
+                "options": [
+                    "jay",
+                    "hotah",
+                    "jee",
+                    "yot"
+                ],
+                "answer": "hotah"
+            },
+            {
+                "question": "How many letters are in the Spanish alphabet?",
+                "options": [
+                    "26",
+                    "27",
+                    "28",
+                    "25"
+                ],
+                "answer": "27"
+            },
+            {
+                "question": "How is 'H' pronounced in Spanish?",
+                "options": [
+                    "hah",
+                    "acheh",
+                    "silent",
+                    "hay"
+                ],
+                "answer": "acheh"
+            },
+            {
+                "question": "How is 'Z' pronounced in Spanish?",
+                "options": [
+                    "zee",
+                    "zed",
+                    "setah",
+                    "tset"
+                ],
+                "answer": "setah"
+            },
+            {
+                "question": "Which letter comes after 'N' in Spanish?",
+                "options": [
+                    "O",
+                    "Ñ",
+                    "P",
+                    "M"
+                ],
+                "answer": "Ñ"
+            }
+        ],
+        "words": [
+            {
+                "question": "What does 'Hola' mean?",
+                "options": [
+                    "Goodbye",
+                    "Hello",
+                    "Please",
+                    "Thanks"
+                ],
+                "answer": "Hello"
+            },
+            {
+                "question": "What is 'Water' in Spanish?",
+                "options": [
+                    "Comida",
+                    "Agua",
+                    "Casa",
+                    "Libro"
+                ],
+                "answer": "Agua"
+            },
+            {
+                "question": "What does 'Amigo' mean?",
+                "options": [
+                    "Family",
+                    "Teacher",
+                    "Friend",
+                    "Book"
+                ],
+                "answer": "Friend"
+            },
+            {
+                "question": "What is 'Happy' in Spanish?",
+                "options": [
+                    "Triste",
+                    "Grande",
+                    "Feliz",
+                    "Bueno"
+                ],
+                "answer": "Feliz"
+            },
+            {
+                "question": "'Escuela' means what?",
+                "options": [
+                    "House",
+                    "School",
+                    "Book",
+                    "Water"
+                ],
+                "answer": "School"
+            },
+            {
+                "question": "What does 'Gracias' mean?",
+                "options": [
+                    "Sorry",
+                    "Please",
+                    "Thank you",
+                    "Hello"
+                ],
+                "answer": "Thank you"
+            }
+        ],
+        "sentences": [
+            {
+                "question": "What does '¡Buenos días!' mean?",
+                "options": [
+                    "Good night",
+                    "Good morning",
+                    "Goodbye",
+                    "Thank you"
+                ],
+                "answer": "Good morning"
+            },
+            {
+                "question": "'¿Cuánto cuesta esto?' is used for?",
+                "options": [
+                    "Greeting",
+                    "Shopping",
+                    "Farewell",
+                    "Introduction"
+                ],
+                "answer": "Shopping"
+            },
+            {
+                "question": "'Gracias por tu ayuda' expresses?",
+                "options": [
+                    "Apology",
+                    "Request",
+                    "Gratitude",
+                    "Introduction"
+                ],
+                "answer": "Gratitude"
+            },
+            {
+                "question": "How do you introduce yourself in Spanish?",
+                "options": [
+                    "¿Cuánto cuesta?",
+                    "Me llamo Alex.",
+                    "Hace buen tiempo.",
+                    "¡Hasta mañana!"
+                ],
+                "answer": "Me llamo Alex."
+            },
+            {
+                "question": "'¡Hasta mañana!' means?",
+                "options": [
+                    "Good morning!",
+                    "See you tomorrow!",
+                    "Thank you!",
+                    "I'm sorry!"
+                ],
+                "answer": "See you tomorrow!"
+            },
+            {
+                "question": "'Lo siento, no entiendo.' expresses?",
+                "options": [
+                    "Greeting",
+                    "Gratitude",
+                    "Confusion/Apology",
+                    "Shopping"
+                ],
+                "answer": "Confusion/Apology"
+            }
+        ]
+    },
+    "french": {
+        "alphabets": [
+            {
+                "question": "How is 'R' pronounced in French?",
+                "options": [
+                    "arr",
+                    "ehr",
+                    "err",
+                    "or"
+                ],
+                "answer": "ehr"
+            },
+            {
+                "question": "How is 'E' pronounced in French?",
+                "options": [
+                    "ee",
+                    "eh",
+                    "uh",
+                    "ay"
+                ],
+                "answer": "uh"
+            },
+            {
+                "question": "How many letters are in the French alphabet?",
+                "options": [
+                    "24",
+                    "25",
+                    "26",
+                    "27"
+                ],
+                "answer": "26"
+            },
+            {
+                "question": "How is 'J' pronounced in French?",
+                "options": [
+                    "jay",
+                    "zhee",
+                    "jee",
+                    "hee"
+                ],
+                "answer": "zhee"
+            },
+            {
+                "question": "How is 'W' pronounced in French?",
+                "options": [
+                    "double-you",
+                    "doob-luh-veh",
+                    "veh",
+                    "oobeh"
+                ],
+                "answer": "doob-luh-veh"
+            },
+            {
+                "question": "How is 'Y' spelled out in French?",
+                "options": [
+                    "why",
+                    "ee-grek",
+                    "oopsilon",
+                    "ee"
+                ],
+                "answer": "ee-grek"
+            }
+        ],
+        "words": [
+            {
+                "question": "What does 'Bonjour' mean?",
+                "options": [
+                    "Goodbye",
+                    "Hello/Good day",
+                    "Thank you",
+                    "Please"
+                ],
+                "answer": "Hello/Good day"
+            },
+            {
+                "question": "What is 'Water' in French?",
+                "options": [
+                    "Livre",
+                    "Maison",
+                    "Eau",
+                    "Ami"
+                ],
+                "answer": "Eau"
+            },
+            {
+                "question": "'Merci' means what?",
+                "options": [
+                    "Sorry",
+                    "Thank you",
+                    "Please",
+                    "Hello"
+                ],
+                "answer": "Thank you"
+            },
+            {
+                "question": "What is 'School' in French?",
+                "options": [
+                    "Maison",
+                    "Famille",
+                    "École",
+                    "Livre"
+                ],
+                "answer": "École"
+            },
+            {
+                "question": "What does 'Beau' mean?",
+                "options": [
+                    "Big",
+                    "Small",
+                    "Beautiful",
+                    "Bad"
+                ],
+                "answer": "Beautiful"
+            },
+            {
+                "question": "'Aujourd'hui' means what?",
+                "options": [
+                    "Tomorrow",
+                    "Yesterday",
+                    "Today",
+                    "Night"
+                ],
+                "answer": "Today"
+            }
+        ],
+        "sentences": [
+            {
+                "question": "'Bonjour! Comment allez-vous?' is used for?",
+                "options": [
+                    "Farewell",
+                    "Greeting",
+                    "Shopping",
+                    "Request"
+                ],
+                "answer": "Greeting"
+            },
+            {
+                "question": "'Combien ça coûte?' is used for?",
+                "options": [
+                    "Greeting",
+                    "Introduction",
+                    "Shopping",
+                    "Time"
+                ],
+                "answer": "Shopping"
+            },
+            {
+                "question": "'Merci pour votre aide' expresses?",
+                "options": [
+                    "Apology",
+                    "Gratitude",
+                    "Request",
+                    "Farewell"
+                ],
+                "answer": "Gratitude"
+            },
+            {
+                "question": "How do you say 'My name is Alex' in French?",
+                "options": [
+                    "Combien ça coûte?",
+                    "Je m'appelle Alex.",
+                    "Il fait beau.",
+                    "À demain!"
+                ],
+                "answer": "Je m'appelle Alex."
+            },
+            {
+                "question": "'À demain!' means?",
+                "options": [
+                    "Good morning!",
+                    "See you tomorrow!",
+                    "Thank you!",
+                    "Sorry!"
+                ],
+                "answer": "See you tomorrow!"
+            },
+            {
+                "question": "'Désolé, je ne comprends pas' means?",
+                "options": [
+                    "I'm happy",
+                    "Sorry, I don't understand",
+                    "Thank you",
+                    "Goodbye"
+                ],
+                "answer": "Sorry, I don't understand"
+            }
+        ]
+    },
+    "japanese": {
+        "alphabets": [
+            {
+                "question": "What is the first Hiragana character?",
+                "options": [
+                    "い",
+                    "う",
+                    "あ",
+                    "え"
+                ],
+                "answer": "あ"
+            },
+            {
+                "question": "How is 'し' pronounced?",
+                "options": [
+                    "si",
+                    "shi",
+                    "chi",
+                    "su"
+                ],
+                "answer": "shi"
+            },
+            {
+                "question": "What comes after 'あ' in Hiragana?",
+                "options": [
+                    "う",
+                    "い",
+                    "え",
+                    "お"
+                ],
+                "answer": "い"
+            },
+            {
+                "question": "How is 'つ' pronounced?",
+                "options": [
+                    "tu",
+                    "su",
+                    "tsu",
+                    "chi"
+                ],
+                "answer": "tsu"
+            },
+            {
+                "question": "How many basic Hiragana characters are there?",
+                "options": [
+                    "26",
+                    "46",
+                    "50",
+                    "36"
+                ],
+                "answer": "46"
+            },
+            {
+                "question": "Which row does 'か' belong to?",
+                "options": [
+                    "A row",
+                    "Ka row",
+                    "Sa row",
+                    "Ta row"
+                ],
+                "answer": "Ka row"
+            }
+        ],
+        "words": [
+            {
+                "question": "What does 'こんにちは' mean?",
+                "options": [
+                    "Goodbye",
+                    "Hello",
+                    "Thank you",
+                    "Sorry"
+                ],
+                "answer": "Hello"
+            },
+            {
+                "question": "'水' in Japanese means?",
+                "options": [
+                    "Food",
+                    "Water",
+                    "Book",
+                    "House"
+                ],
+                "answer": "Water"
+            },
+            {
+                "question": "What does 'ありがとう' mean?",
+                "options": [
+                    "Please",
+                    "Sorry",
+                    "Thank you",
+                    "Hello"
+                ],
+                "answer": "Thank you"
+            },
+            {
+                "question": "'先生' means what?",
+                "options": [
+                    "Student",
+                    "Friend",
+                    "Family",
+                    "Teacher"
+                ],
+                "answer": "Teacher"
+            },
+            {
+                "question": "What is 'Beautiful' in Japanese?",
+                "options": [
+                    "大きい",
+                    "小さい",
+                    "美しい",
+                    "悲しい"
+                ],
+                "answer": "美しい"
+            },
+            {
+                "question": "'今日' means what?",
+                "options": [
+                    "Tomorrow",
+                    "Yesterday",
+                    "Today",
+                    "Night"
+                ],
+                "answer": "Today"
+            }
+        ],
+        "sentences": [
+            {
+                "question": "'おはようございます' is used for?",
+                "options": [
+                    "Evening greeting",
+                    "Morning greeting",
+                    "Farewell",
+                    "Apology"
+                ],
+                "answer": "Morning greeting"
+            },
+            {
+                "question": "'これはいくらですか？' is used for?",
+                "options": [
+                    "Greeting",
+                    "Shopping",
+                    "Introduction",
+                    "Time"
+                ],
+                "answer": "Shopping"
+            },
+            {
+                "question": "'助けてくれてありがとう' expresses?",
+                "options": [
+                    "Apology",
+                    "Gratitude",
+                    "Request",
+                    "Farewell"
+                ],
+                "answer": "Gratitude"
+            },
+            {
+                "question": "How do you say 'My name is Alex' in Japanese?",
+                "options": [
+                    "これはいくらですか？",
+                    "私の名前はアレックスです。",
+                    "今日はいい天気ですね。",
+                    "また明日！"
+                ],
+                "answer": "私の名前はアレックスです。"
+            },
+            {
+                "question": "'また明日！' means?",
+                "options": [
+                    "Good morning!",
+                    "See you tomorrow!",
+                    "Thank you!",
+                    "I'm sorry!"
+                ],
+                "answer": "See you tomorrow!"
+            },
+            {
+                "question": "'すみません、わかりません' means?",
+                "options": [
+                    "Hello",
+                    "Sorry, I don't understand",
+                    "Thank you",
+                    "Let's go"
+                ],
+                "answer": "Sorry, I don't understand"
+            }
+        ]
+    },
+    "german": {
+        "alphabets": [
+            {
+                "question": "Which letter is unique to German?",
+                "options": [
+                    "Ä",
+                    "ß",
+                    "Ö",
+                    "All of these"
+                ],
+                "answer": "All of these"
+            },
+            {
+                "question": "How is 'W' pronounced in German?",
+                "options": [
+                    "double-you",
+                    "veh",
+                    "weh",
+                    "oo"
+                ],
+                "answer": "veh"
+            },
+            {
+                "question": "How is 'J' pronounced in German?",
+                "options": [
+                    "jay",
+                    "jee",
+                    "yot",
+                    "zhee"
+                ],
+                "answer": "yot"
+            },
+            {
+                "question": "How is 'Z' pronounced in German?",
+                "options": [
+                    "zee",
+                    "zed",
+                    "tset",
+                    "set"
+                ],
+                "answer": "tset"
+            },
+            {
+                "question": "How is 'V' pronounced in German?",
+                "options": [
+                    "vee",
+                    "fow",
+                    "beh",
+                    "weh"
+                ],
+                "answer": "fow"
+            },
+            {
+                "question": "How many extra letters does German have?",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                ],
+                "answer": "4"
+            }
+        ],
+        "words": [
+            {
+                "question": "What does 'Hallo' mean?",
+                "options": [
+                    "Goodbye",
+                    "Hello",
+                    "Please",
+                    "Thanks"
+                ],
+                "answer": "Hello"
+            },
+            {
+                "question": "'Wasser' means what?",
+                "options": [
+                    "Food",
+                    "House",
+                    "Water",
+                    "Book"
+                ],
+                "answer": "Water"
+            },
+            {
+                "question": "What does 'Danke' mean?",
+                "options": [
+                    "Sorry",
+                    "Please",
+                    "Thank you",
+                    "Yes"
+                ],
+                "answer": "Thank you"
+            },
+            {
+                "question": "'Schule' means what?",
+                "options": [
+                    "House",
+                    "School",
+                    "Book",
+                    "Friend"
+                ],
+                "answer": "School"
+            },
+            {
+                "question": "What does 'Schön' mean?",
+                "options": [
+                    "Big",
+                    "Small",
+                    "Beautiful",
+                    "Bad"
+                ],
+                "answer": "Beautiful"
+            },
+            {
+                "question": "'Heute' means what?",
+                "options": [
+                    "Tomorrow",
+                    "Yesterday",
+                    "Today",
+                    "Morning"
+                ],
+                "answer": "Today"
+            }
+        ],
+        "sentences": [
+            {
+                "question": "'Guten Morgen!' is used for?",
+                "options": [
+                    "Evening greeting",
+                    "Morning greeting",
+                    "Farewell",
+                    "Apology"
+                ],
+                "answer": "Morning greeting"
+            },
+            {
+                "question": "'Wie viel kostet das?' is used for?",
+                "options": [
+                    "Greeting",
+                    "Shopping",
+                    "Introduction",
+                    "Time"
+                ],
+                "answer": "Shopping"
+            },
+            {
+                "question": "'Danke für Ihre Hilfe' expresses?",
+                "options": [
+                    "Apology",
+                    "Gratitude",
+                    "Request",
+                    "Farewell"
+                ],
+                "answer": "Gratitude"
+            },
+            {
+                "question": "How do you say 'My name is Alex' in German?",
+                "options": [
+                    "Wie viel kostet das?",
+                    "Ich heiße Alex.",
+                    "Das Wetter ist schön.",
+                    "Bis morgen!"
+                ],
+                "answer": "Ich heiße Alex."
+            },
+            {
+                "question": "'Bis morgen!' means?",
+                "options": [
+                    "Good morning!",
+                    "See you tomorrow!",
+                    "Thank you!",
+                    "I'm sorry!"
+                ],
+                "answer": "See you tomorrow!"
+            },
+            {
+                "question": "'Entschuldigung, ich verstehe nicht' means?",
+                "options": [
+                    "Hello",
+                    "Sorry, I don't understand",
+                    "Thank you",
+                    "Goodbye"
+                ],
+                "answer": "Sorry, I don't understand"
+            }
+        ]
+    }
+}

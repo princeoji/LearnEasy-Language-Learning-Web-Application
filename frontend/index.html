@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description"
+    content="LearnEasy - A modern, dark-themed language learning platform. Choose your language and start learning today.">
+  <title>LearnEasy - Language Learning Platform</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <!-- ============================================
+       ONBOARDING SCREEN
+  ============================================ -->
+  <div class="onboarding-screen" id="onboardingScreen">
+    <!-- subtle grid background -->
+    <div class="grid-bg"></div>
+
+    <div class="onboarding-card">
+      <div class="onboarding-logo">📚 LearnEasy</div>
+      <h1 class="onboarding-title">Start Your Learning Journey</h1>
+      <p class="onboarding-subtitle">Pick the language you know and the one you want to learn.</p>
+
+      <div class="select-group">
+        <label for="knownLang">I know:</label>
+        <div class="custom-select-wrapper">
+          <select id="knownLang">
+            <option value="" disabled selected>Select language...</option>
+            <option value="english">🇬🇧 English</option>
+            <option value="hindi">🇮🇳 Hindi</option>
+            <option value="spanish">🇪🇸 Spanish</option>
+            <option value="french">🇫🇷 French</option>
+            <option value="japanese">🇯🇵 Japanese</option>
+            <option value="german">🇩🇪 German</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="select-group">
+        <label for="learnLang">I want to learn:</label>
+        <div class="custom-select-wrapper">
+          <select id="learnLang">
+            <option value="" disabled selected>Select language...</option>
+            <option value="english">🇬🇧 English</option>
+            <option value="hindi">🇮🇳 Hindi</option>
+            <option value="spanish">🇪🇸 Spanish</option>
+            <option value="french">🇫🇷 French</option>
+            <option value="japanese">🇯🇵 Japanese</option>
+            <option value="german">🇩🇪 German</option>
+          </select>
+        </div>
+      </div>
+
+      <p class="error-msg" id="errorMsg"></p>
+      <button class="btn-continue" id="continueBtn">Continue →</button>
+    </div>
+  </div>
+
+  <!-- ============================================
+       MAIN DASHBOARD
+  ============================================ -->
+  <div class="dashboard" id="dashboard" style="display: none;">
+    <div class="grid-bg"></div>
+
+    <!-- Top Banner -->
+    <header class="top-bar">
+      <div class="top-bar-left">
+        <span class="top-logo">📚 LearnEasy</span>
+      </div>
+      <div class="top-bar-center" id="langBanner">
+        <!-- e.g. "Learning: English | Known: Hindi" -->
+      </div>
+      <div class="top-bar-right">
+        <button class="btn-icon" id="changeLangBtn" title="Change Languages">🔄</button>
+      </div>
+    </header>
+
+    <!-- Mobile hamburger -->
+    <button class="mobile-menu-btn" id="mobileMenuBtn">☰</button>
+
+    <!-- Sidebar -->
+    <nav class="sidebar" id="sidebar">
+      <ul class="nav-links" id="navLinks">
+        <li><a href="#" class="nav-link active" data-section="home" id="nav-home"><span class="nav-icon">🏠</span>
+            Home</a></li>
+        <li><a href="#" class="nav-link" data-section="alphabets" id="nav-alphabets"><span class="nav-icon">🔤</span>
+            Alphabets</a></li>
+        <li><a href="#" class="nav-link locked" data-section="words" id="nav-words"><span class="nav-icon">📝</span>
+            Words <span class="lock-icon" id="lock-words">🔒</span></a></li>
+        <li><a href="#" class="nav-link locked" data-section="sentences" id="nav-sentences"><span
+              class="nav-icon">💬</span> Sentences <span class="lock-icon" id="lock-sentences">🔒</span></a></li>
+        <li><a href="#" class="nav-link" data-section="quiz" id="nav-quiz"><span class="nav-icon">❓</span> Quiz</a></li>
+        <li><a href="#" class="nav-link" data-section="dictionary" id="nav-dictionary"><span class="nav-icon">📖</span>
+            Dictionary</a></li>
+        <li><a href="#" class="nav-link" data-section="progress" id="nav-progress"><span class="nav-icon">📊</span>
+            Progress</a></li>
+      </ul>
+    </nav>
+
+    <!-- Mobile overlay -->
+    <div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+    <!-- Main Content -->
+    <main class="main-content" id="mainContent">
+
+      <!-- HOME -->
+      <section class="section active" id="section-home">
+        <div class="welcome-banner">
+          <h2>Welcome back! 👋</h2>
+          <p>Continue your learning journey. Pick up where you left off.</p>
+        </div>
+        <div class="steps-container">
+          <div class="step-card" id="step-alphabets">
+            <div class="step-number">1</div>
+            <h3>Alphabets</h3>
+            <p>Master the script — learn every letter with pronunciation.</p>
+            <span class="step-status" id="status-alphabets">Not Started</span>
+          </div>
+          <div class="step-card" id="step-words">
+            <div class="step-number">2</div>
+            <h3>Words</h3>
+            <p>Build vocabulary with 25 essential everyday words.</p>
+            <span class="step-status" id="status-words">🔒 Locked</span>
+          </div>
+          <div class="step-card" id="step-sentences">
+            <div class="step-number">3</div>
+            <h3>Sentences</h3>
+            <p>Practice 15 real-world sentences for daily use.</p>
+            <span class="step-status" id="status-sentences">🔒 Locked</span>
+          </div>
+        </div>
+        <div class="home-progress-bar">
+          <h3>Overall Progress</h3>
+          <div class="progress-track">
+            <div class="progress-fill" id="homeProgressFill" style="width:0%"></div>
+          </div>
+          <p class="progress-text" id="homeProgressText">0% completed</p>
+        </div>
+      </section>
+
+      <!-- ALPHABETS -->
+      <section class="section" id="section-alphabets">
+        <div class="section-header">
+          <h2>🔤 Alphabets</h2>
+          <p class="section-desc" id="alphaDesc">Learn the script of your target language.</p>
+        </div>
+        <div class="cards-grid" id="alphabetsGrid"></div>
+        <button class="btn-primary complete-btn" id="completeAlphabets">✅ Mark as Complete</button>
+      </section>
+
+      <!-- WORDS -->
+      <section class="section" id="section-words">
+        <div class="section-header">
+          <h2>📝 Words</h2>
+          <p class="section-desc">Expand your vocabulary — see translations side by side.</p>
+        </div>
+        <div class="filter-bar" id="wordFilter"></div>
+        <div class="cards-grid" id="wordsGrid"></div>
+        <button class="btn-primary complete-btn" id="completeWords">✅ Mark as Complete</button>
+      </section>
+
+      <!-- SENTENCES -->
+      <section class="section" id="section-sentences">
+        <div class="section-header">
+          <h2>💬 Sentences</h2>
+          <p class="section-desc">Practise real conversations with side-by-side translations.</p>
+        </div>
+        <div class="cards-grid sentences-grid" id="sentencesGrid"></div>
+        <button class="btn-primary complete-btn" id="completeSentences">✅ Mark as Complete</button>
+      </section>
+
+      <!-- QUIZ -->
+      <section class="section" id="section-quiz">
+        <div class="section-header">
+          <h2>❓ Quiz Time</h2>
+          <p class="section-desc">Test what you've learned so far.</p>
+        </div>
+        <div class="quiz-selector" id="quizSelector">
+          <button class="btn-outline quiz-tab" data-quiz="alphabets">Alphabets Quiz</button>
+          <button class="btn-outline quiz-tab" data-quiz="words">Words Quiz</button>
+          <button class="btn-outline quiz-tab" data-quiz="sentences">Sentences Quiz</button>
+        </div>
+        <div class="quiz-container" id="quizContainer">
+          <p class="placeholder-text">👆 Select a quiz section above to begin!</p>
+        </div>
+        <div class="quiz-actions" id="quizActions" style="display:none;">
+          <button class="btn-primary" id="submitQuiz">Submit Quiz</button>
+        </div>
+        <div class="quiz-results" id="quizResults" style="display:none;"></div>
+      </section>
+
+      <!-- DICTIONARY -->
+      <section class="section" id="section-dictionary">
+        <div class="section-header">
+          <h2>📖 Dictionary</h2>
+          <p class="section-desc">Search for words and see their translation instantly.</p>
+        </div>
+        <div class="search-box">
+          <input type="text" id="dictSearch" placeholder="Type a word to search..." autocomplete="off">
+          <span class="search-icon">🔍</span>
+        </div>
+        <div class="dict-results" id="dictResults">
+          <p class="placeholder-text">Start typing to search for words…</p>
+        </div>
+      </section>
+
+      <!-- PROGRESS -->
+      <section class="section" id="section-progress">
+        <div class="section-header">
+          <h2>📊 Your Progress</h2>
+          <p class="section-desc">Track your journey and quiz scores here.</p>
+        </div>
+        <div class="progress-overview">
+          <div class="progress-circle" id="progressCircle"><span class="progress-percent" id="progressPercent">0%</span>
+          </div>
+          <p class="progress-circle-label">Overall Completion</p>
+        </div>
+        <div class="glass-card progress-details">
+          <h3>Section Progress</h3>
+          <div class="progress-table">
+            <div class="progress-row"><span class="progress-label">🔤 Alphabets</span><span class="progress-status"
+                id="prog-alphabets">Not Started</span></div>
+            <div class="progress-row"><span class="progress-label">📝 Words</span><span class="progress-status"
+                id="prog-words">🔒 Locked</span></div>
+            <div class="progress-row"><span class="progress-label">💬 Sentences</span><span class="progress-status"
+                id="prog-sentences">🔒 Locked</span></div>
+          </div>
+        </div>
+        <div class="glass-card scores-section">
+          <h3>Quiz Scores</h3>
+          <div class="scores-grid">
+            <div class="score-card">
+              <h4>Alphabets</h4>
+              <p class="score-value" id="score-alphabets">--</p>
+            </div>
+            <div class="score-card">
+              <h4>Words</h4>
+              <p class="score-value" id="score-words">--</p>
+            </div>
+            <div class="score-card">
+              <h4>Sentences</h4>
+              <p class="score-value" id="score-sentences">--</p>
+            </div>
+          </div>
+        </div>
+        <button class="btn-danger" id="resetProgress">🗑️ Reset All Progress</button>
+      </section>
+
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+
+</html>

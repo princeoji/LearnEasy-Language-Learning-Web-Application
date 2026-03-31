@@ -1,0 +1,1702 @@
+{
+    "english": {
+        "name": "English",
+        "flag": "🇬🇧",
+        "alphabets": [
+            {
+                "letter": "A",
+                "pronunciation": "ay"
+            },
+            {
+                "letter": "B",
+                "pronunciation": "bee"
+            },
+            {
+                "letter": "C",
+                "pronunciation": "see"
+            },
+            {
+                "letter": "D",
+                "pronunciation": "dee"
+            },
+            {
+                "letter": "E",
+                "pronunciation": "ee"
+            },
+            {
+                "letter": "F",
+                "pronunciation": "eff"
+            },
+            {
+                "letter": "G",
+                "pronunciation": "jee"
+            },
+            {
+                "letter": "H",
+                "pronunciation": "aych"
+            },
+            {
+                "letter": "I",
+                "pronunciation": "eye"
+            },
+            {
+                "letter": "J",
+                "pronunciation": "jay"
+            },
+            {
+                "letter": "K",
+                "pronunciation": "kay"
+            },
+            {
+                "letter": "L",
+                "pronunciation": "ell"
+            },
+            {
+                "letter": "M",
+                "pronunciation": "em"
+            },
+            {
+                "letter": "N",
+                "pronunciation": "en"
+            },
+            {
+                "letter": "O",
+                "pronunciation": "oh"
+            },
+            {
+                "letter": "P",
+                "pronunciation": "pee"
+            },
+            {
+                "letter": "Q",
+                "pronunciation": "cue"
+            },
+            {
+                "letter": "R",
+                "pronunciation": "arr"
+            },
+            {
+                "letter": "S",
+                "pronunciation": "ess"
+            },
+            {
+                "letter": "T",
+                "pronunciation": "tee"
+            },
+            {
+                "letter": "U",
+                "pronunciation": "you"
+            },
+            {
+                "letter": "V",
+                "pronunciation": "vee"
+            },
+            {
+                "letter": "W",
+                "pronunciation": "double-you"
+            },
+            {
+                "letter": "X",
+                "pronunciation": "ex"
+            },
+            {
+                "letter": "Y",
+                "pronunciation": "why"
+            },
+            {
+                "letter": "Z",
+                "pronunciation": "zee"
+            }
+        ],
+        "words": [
+            {
+                "word": "Hello",
+                "category": "Greetings"
+            },
+            {
+                "word": "Goodbye",
+                "category": "Greetings"
+            },
+            {
+                "word": "Please",
+                "category": "Manners"
+            },
+            {
+                "word": "Thank you",
+                "category": "Manners"
+            },
+            {
+                "word": "Sorry",
+                "category": "Manners"
+            },
+            {
+                "word": "Yes",
+                "category": "Basics"
+            },
+            {
+                "word": "No",
+                "category": "Basics"
+            },
+            {
+                "word": "Water",
+                "category": "Food & Drink"
+            },
+            {
+                "word": "Food",
+                "category": "Food & Drink"
+            },
+            {
+                "word": "Friend",
+                "category": "People"
+            },
+            {
+                "word": "Family",
+                "category": "People"
+            },
+            {
+                "word": "Teacher",
+                "category": "People"
+            },
+            {
+                "word": "Book",
+                "category": "Objects"
+            },
+            {
+                "word": "House",
+                "category": "Places"
+            },
+            {
+                "word": "School",
+                "category": "Places"
+            },
+            {
+                "word": "Happy",
+                "category": "Feelings"
+            },
+            {
+                "word": "Sad",
+                "category": "Feelings"
+            },
+            {
+                "word": "Big",
+                "category": "Describing"
+            },
+            {
+                "word": "Small",
+                "category": "Describing"
+            },
+            {
+                "word": "Beautiful",
+                "category": "Describing"
+            },
+            {
+                "word": "Good",
+                "category": "Describing"
+            },
+            {
+                "word": "Bad",
+                "category": "Describing"
+            },
+            {
+                "word": "Morning",
+                "category": "Time"
+            },
+            {
+                "word": "Night",
+                "category": "Time"
+            },
+            {
+                "word": "Today",
+                "category": "Time"
+            }
+        ],
+        "sentences": [
+            {
+                "sentence": "Good morning! How are you?",
+                "context": "Greeting"
+            },
+            {
+                "sentence": "My name is Alex.",
+                "context": "Introduction"
+            },
+            {
+                "sentence": "Where is the bus stop?",
+                "context": "Directions"
+            },
+            {
+                "sentence": "Can I have some water?",
+                "context": "Request"
+            },
+            {
+                "sentence": "I am learning a new language.",
+                "context": "Study"
+            },
+            {
+                "sentence": "The weather is nice today.",
+                "context": "Small talk"
+            },
+            {
+                "sentence": "How much does this cost?",
+                "context": "Shopping"
+            },
+            {
+                "sentence": "I am sorry, I don't understand.",
+                "context": "Conversation"
+            },
+            {
+                "sentence": "Thank you for your help.",
+                "context": "Gratitude"
+            },
+            {
+                "sentence": "See you tomorrow!",
+                "context": "Farewell"
+            },
+            {
+                "sentence": "She goes to school every day.",
+                "context": "Daily routine"
+            },
+            {
+                "sentence": "I like reading books.",
+                "context": "Hobbies"
+            },
+            {
+                "sentence": "This is my friend.",
+                "context": "Introduction"
+            },
+            {
+                "sentence": "What time is it?",
+                "context": "Time"
+            },
+            {
+                "sentence": "I need help please.",
+                "context": "Request"
+            }
+        ]
+    },
+    "hindi": {
+        "name": "हिन्दी",
+        "flag": "🇮🇳",
+        "alphabets": [
+            {
+                "letter": "अ",
+                "pronunciation": "a"
+            },
+            {
+                "letter": "आ",
+                "pronunciation": "aa"
+            },
+            {
+                "letter": "इ",
+                "pronunciation": "i"
+            },
+            {
+                "letter": "ई",
+                "pronunciation": "ee"
+            },
+            {
+                "letter": "उ",
+                "pronunciation": "u"
+            },
+            {
+                "letter": "ऊ",
+                "pronunciation": "oo"
+            },
+            {
+                "letter": "ए",
+                "pronunciation": "e"
+            },
+            {
+                "letter": "ऐ",
+                "pronunciation": "ai"
+            },
+            {
+                "letter": "ओ",
+                "pronunciation": "o"
+            },
+            {
+                "letter": "औ",
+                "pronunciation": "au"
+            },
+            {
+                "letter": "क",
+                "pronunciation": "ka"
+            },
+            {
+                "letter": "ख",
+                "pronunciation": "kha"
+            },
+            {
+                "letter": "ग",
+                "pronunciation": "ga"
+            },
+            {
+                "letter": "घ",
+                "pronunciation": "gha"
+            },
+            {
+                "letter": "च",
+                "pronunciation": "cha"
+            },
+            {
+                "letter": "छ",
+                "pronunciation": "chha"
+            },
+            {
+                "letter": "ज",
+                "pronunciation": "ja"
+            },
+            {
+                "letter": "झ",
+                "pronunciation": "jha"
+            },
+            {
+                "letter": "ट",
+                "pronunciation": "ta"
+            },
+            {
+                "letter": "ठ",
+                "pronunciation": "tha"
+            },
+            {
+                "letter": "ड",
+                "pronunciation": "da"
+            },
+            {
+                "letter": "ढ",
+                "pronunciation": "dha"
+            },
+            {
+                "letter": "ण",
+                "pronunciation": "na"
+            },
+            {
+                "letter": "त",
+                "pronunciation": "ta"
+            },
+            {
+                "letter": "थ",
+                "pronunciation": "tha"
+            },
+            {
+                "letter": "द",
+                "pronunciation": "da"
+            },
+            {
+                "letter": "ध",
+                "pronunciation": "dha"
+            },
+            {
+                "letter": "न",
+                "pronunciation": "na"
+            },
+            {
+                "letter": "प",
+                "pronunciation": "pa"
+            },
+            {
+                "letter": "फ",
+                "pronunciation": "pha"
+            },
+            {
+                "letter": "ब",
+                "pronunciation": "ba"
+            },
+            {
+                "letter": "भ",
+                "pronunciation": "bha"
+            },
+            {
+                "letter": "म",
+                "pronunciation": "ma"
+            },
+            {
+                "letter": "य",
+                "pronunciation": "ya"
+            },
+            {
+                "letter": "र",
+                "pronunciation": "ra"
+            },
+            {
+                "letter": "ल",
+                "pronunciation": "la"
+            }
+        ],
+        "words": [
+            {
+                "word": "नमस्ते",
+                "category": "Greetings"
+            },
+            {
+                "word": "अलविदा",
+                "category": "Greetings"
+            },
+            {
+                "word": "कृपया",
+                "category": "Manners"
+            },
+            {
+                "word": "धन्यवाद",
+                "category": "Manners"
+            },
+            {
+                "word": "माफ़ करें",
+                "category": "Manners"
+            },
+            {
+                "word": "हाँ",
+                "category": "Basics"
+            },
+            {
+                "word": "नहीं",
+                "category": "Basics"
+            },
+            {
+                "word": "पानी",
+                "category": "Food & Drink"
+            },
+            {
+                "word": "खाना",
+                "category": "Food & Drink"
+            },
+            {
+                "word": "दोस्त",
+                "category": "People"
+            },
+            {
+                "word": "परिवार",
+                "category": "People"
+            },
+            {
+                "word": "शिक्षक",
+                "category": "People"
+            },
+            {
+                "word": "किताब",
+                "category": "Objects"
+            },
+            {
+                "word": "घर",
+                "category": "Places"
+            },
+            {
+                "word": "विद्यालय",
+                "category": "Places"
+            },
+            {
+                "word": "खुश",
+                "category": "Feelings"
+            },
+            {
+                "word": "उदास",
+                "category": "Feelings"
+            },
+            {
+                "word": "बड़ा",
+                "category": "Describing"
+            },
+            {
+                "word": "छोटा",
+                "category": "Describing"
+            },
+            {
+                "word": "सुंदर",
+                "category": "Describing"
+            },
+            {
+                "word": "अच्छा",
+                "category": "Describing"
+            },
+            {
+                "word": "बुरा",
+                "category": "Describing"
+            },
+            {
+                "word": "सुबह",
+                "category": "Time"
+            },
+            {
+                "word": "रात",
+                "category": "Time"
+            },
+            {
+                "word": "आज",
+                "category": "Time"
+            }
+        ],
+        "sentences": [
+            {
+                "sentence": "सुप्रभात! आप कैसे हैं?",
+                "context": "Greeting"
+            },
+            {
+                "sentence": "मेरा नाम एलेक्स है।",
+                "context": "Introduction"
+            },
+            {
+                "sentence": "बस स्टॉप कहाँ है?",
+                "context": "Directions"
+            },
+            {
+                "sentence": "क्या मुझे पानी मिल सकता है?",
+                "context": "Request"
+            },
+            {
+                "sentence": "मैं एक नई भाषा सीख रहा हूँ।",
+                "context": "Study"
+            },
+            {
+                "sentence": "आज मौसम अच्छा है।",
+                "context": "Small talk"
+            },
+            {
+                "sentence": "इसकी कीमत कितनी है?",
+                "context": "Shopping"
+            },
+            {
+                "sentence": "माफ़ करें, मुझे समझ नहीं आया।",
+                "context": "Conversation"
+            },
+            {
+                "sentence": "आपकी मदद के लिए धन्यवाद।",
+                "context": "Gratitude"
+            },
+            {
+                "sentence": "कल मिलते हैं!",
+                "context": "Farewell"
+            },
+            {
+                "sentence": "वह हर दिन स्कूल जाती है।",
+                "context": "Daily routine"
+            },
+            {
+                "sentence": "मुझे किताबें पढ़ना पसंद है।",
+                "context": "Hobbies"
+            },
+            {
+                "sentence": "यह मेरा दोस्त है।",
+                "context": "Introduction"
+            },
+            {
+                "sentence": "कितने बजे हैं?",
+                "context": "Time"
+            },
+            {
+                "sentence": "कृपया मेरी मदद करें।",
+                "context": "Request"
+            }
+        ]
+    },
+    "spanish": {
+        "name": "Español",
+        "flag": "🇪🇸",
+        "alphabets": [
+            {
+                "letter": "A",
+                "pronunciation": "ah"
+            },
+            {
+                "letter": "B",
+                "pronunciation": "beh"
+            },
+            {
+                "letter": "C",
+                "pronunciation": "seh"
+            },
+            {
+                "letter": "D",
+                "pronunciation": "deh"
+            },
+            {
+                "letter": "E",
+                "pronunciation": "eh"
+            },
+            {
+                "letter": "F",
+                "pronunciation": "efeh"
+            },
+            {
+                "letter": "G",
+                "pronunciation": "heh"
+            },
+            {
+                "letter": "H",
+                "pronunciation": "acheh"
+            },
+            {
+                "letter": "I",
+                "pronunciation": "ee"
+            },
+            {
+                "letter": "J",
+                "pronunciation": "hotah"
+            },
+            {
+                "letter": "K",
+                "pronunciation": "kah"
+            },
+            {
+                "letter": "L",
+                "pronunciation": "eleh"
+            },
+            {
+                "letter": "M",
+                "pronunciation": "emeh"
+            },
+            {
+                "letter": "N",
+                "pronunciation": "eneh"
+            },
+            {
+                "letter": "Ñ",
+                "pronunciation": "enyeh"
+            },
+            {
+                "letter": "O",
+                "pronunciation": "oh"
+            },
+            {
+                "letter": "P",
+                "pronunciation": "peh"
+            },
+            {
+                "letter": "Q",
+                "pronunciation": "koo"
+            },
+            {
+                "letter": "R",
+                "pronunciation": "erreh"
+            },
+            {
+                "letter": "S",
+                "pronunciation": "eseh"
+            },
+            {
+                "letter": "T",
+                "pronunciation": "teh"
+            },
+            {
+                "letter": "U",
+                "pronunciation": "oo"
+            },
+            {
+                "letter": "V",
+                "pronunciation": "oobeh"
+            },
+            {
+                "letter": "W",
+                "pronunciation": "doble-oobeh"
+            },
+            {
+                "letter": "X",
+                "pronunciation": "ekees"
+            },
+            {
+                "letter": "Y",
+                "pronunciation": "ee-griega"
+            },
+            {
+                "letter": "Z",
+                "pronunciation": "setah"
+            }
+        ],
+        "words": [
+            {
+                "word": "Hola",
+                "category": "Greetings"
+            },
+            {
+                "word": "Adiós",
+                "category": "Greetings"
+            },
+            {
+                "word": "Por favor",
+                "category": "Manners"
+            },
+            {
+                "word": "Gracias",
+                "category": "Manners"
+            },
+            {
+                "word": "Lo siento",
+                "category": "Manners"
+            },
+            {
+                "word": "Sí",
+                "category": "Basics"
+            },
+            {
+                "word": "No",
+                "category": "Basics"
+            },
+            {
+                "word": "Agua",
+                "category": "Food & Drink"
+            },
+            {
+                "word": "Comida",
+                "category": "Food & Drink"
+            },
+            {
+                "word": "Amigo",
+                "category": "People"
+            },
+            {
+                "word": "Familia",
+                "category": "People"
+            },
+            {
+                "word": "Profesor",
+                "category": "People"
+            },
+            {
+                "word": "Libro",
+                "category": "Objects"
+            },
+            {
+                "word": "Casa",
+                "category": "Places"
+            },
+            {
+                "word": "Escuela",
+                "category": "Places"
+            },
+            {
+                "word": "Feliz",
+                "category": "Feelings"
+            },
+            {
+                "word": "Triste",
+                "category": "Feelings"
+            },
+            {
+                "word": "Grande",
+                "category": "Describing"
+            },
+            {
+                "word": "Pequeño",
+                "category": "Describing"
+            },
+            {
+                "word": "Hermoso",
+                "category": "Describing"
+            },
+            {
+                "word": "Bueno",
+                "category": "Describing"
+            },
+            {
+                "word": "Malo",
+                "category": "Describing"
+            },
+            {
+                "word": "Mañana",
+                "category": "Time"
+            },
+            {
+                "word": "Noche",
+                "category": "Time"
+            },
+            {
+                "word": "Hoy",
+                "category": "Time"
+            }
+        ],
+        "sentences": [
+            {
+                "sentence": "¡Buenos días! ¿Cómo estás?",
+                "context": "Greeting"
+            },
+            {
+                "sentence": "Me llamo Alex.",
+                "context": "Introduction"
+            },
+            {
+                "sentence": "¿Dónde está la parada de autobús?",
+                "context": "Directions"
+            },
+            {
+                "sentence": "¿Puedo tener un poco de agua?",
+                "context": "Request"
+            },
+            {
+                "sentence": "Estoy aprendiendo un nuevo idioma.",
+                "context": "Study"
+            },
+            {
+                "sentence": "Hace buen tiempo hoy.",
+                "context": "Small talk"
+            },
+            {
+                "sentence": "¿Cuánto cuesta esto?",
+                "context": "Shopping"
+            },
+            {
+                "sentence": "Lo siento, no entiendo.",
+                "context": "Conversation"
+            },
+            {
+                "sentence": "Gracias por tu ayuda.",
+                "context": "Gratitude"
+            },
+            {
+                "sentence": "¡Hasta mañana!",
+                "context": "Farewell"
+            },
+            {
+                "sentence": "Ella va a la escuela todos los días.",
+                "context": "Daily routine"
+            },
+            {
+                "sentence": "Me gusta leer libros.",
+                "context": "Hobbies"
+            },
+            {
+                "sentence": "Este es mi amigo.",
+                "context": "Introduction"
+            },
+            {
+                "sentence": "¿Qué hora es?",
+                "context": "Time"
+            },
+            {
+                "sentence": "Necesito ayuda por favor.",
+                "context": "Request"
+            }
+        ]
+    },
+    "french": {
+        "name": "Français",
+        "flag": "🇫🇷",
+        "alphabets": [
+            {
+                "letter": "A",
+                "pronunciation": "ah"
+            },
+            {
+                "letter": "B",
+                "pronunciation": "beh"
+            },
+            {
+                "letter": "C",
+                "pronunciation": "seh"
+            },
+            {
+                "letter": "D",
+                "pronunciation": "deh"
+            },
+            {
+                "letter": "E",
+                "pronunciation": "uh"
+            },
+            {
+                "letter": "F",
+                "pronunciation": "eff"
+            },
+            {
+                "letter": "G",
+                "pronunciation": "zheh"
+            },
+            {
+                "letter": "H",
+                "pronunciation": "ahsh"
+            },
+            {
+                "letter": "I",
+                "pronunciation": "ee"
+            },
+            {
+                "letter": "J",
+                "pronunciation": "zhee"
+            },
+            {
+                "letter": "K",
+                "pronunciation": "kah"
+            },
+            {
+                "letter": "L",
+                "pronunciation": "ell"
+            },
+            {
+                "letter": "M",
+                "pronunciation": "em"
+            },
+            {
+                "letter": "N",
+                "pronunciation": "en"
+            },
+            {
+                "letter": "O",
+                "pronunciation": "oh"
+            },
+            {
+                "letter": "P",
+                "pronunciation": "peh"
+            },
+            {
+                "letter": "Q",
+                "pronunciation": "kew"
+            },
+            {
+                "letter": "R",
+                "pronunciation": "ehr"
+            },
+            {
+                "letter": "S",
+                "pronunciation": "ess"
+            },
+            {
+                "letter": "T",
+                "pronunciation": "teh"
+            },
+            {
+                "letter": "U",
+                "pronunciation": "ew"
+            },
+            {
+                "letter": "V",
+                "pronunciation": "veh"
+            },
+            {
+                "letter": "W",
+                "pronunciation": "doob-luh-veh"
+            },
+            {
+                "letter": "X",
+                "pronunciation": "eeks"
+            },
+            {
+                "letter": "Y",
+                "pronunciation": "ee-grek"
+            },
+            {
+                "letter": "Z",
+                "pronunciation": "zed"
+            }
+        ],
+        "words": [
+            {
+                "word": "Bonjour",
+                "category": "Greetings"
+            },
+            {
+                "word": "Au revoir",
+                "category": "Greetings"
+            },
+            {
+                "word": "S'il vous plaît",
+                "category": "Manners"
+            },
+            {
+                "word": "Merci",
+                "category": "Manners"
+            },
+            {
+                "word": "Pardon",
+                "category": "Manners"
+            },
+            {
+                "word": "Oui",
+                "category": "Basics"
+            },
+            {
+                "word": "Non",
+                "category": "Basics"
+            },
+            {
+                "word": "Eau",
+                "category": "Food & Drink"
+            },
+            {
+                "word": "Nourriture",
+                "category": "Food & Drink"
+            },
+            {
+                "word": "Ami",
+                "category": "People"
+            },
+            {
+                "word": "Famille",
+                "category": "People"
+            },
+            {
+                "word": "Professeur",
+                "category": "People"
+            },
+            {
+                "word": "Livre",
+                "category": "Objects"
+            },
+            {
+                "word": "Maison",
+                "category": "Places"
+            },
+            {
+                "word": "École",
+                "category": "Places"
+            },
+            {
+                "word": "Heureux",
+                "category": "Feelings"
+            },
+            {
+                "word": "Triste",
+                "category": "Feelings"
+            },
+            {
+                "word": "Grand",
+                "category": "Describing"
+            },
+            {
+                "word": "Petit",
+                "category": "Describing"
+            },
+            {
+                "word": "Beau",
+                "category": "Describing"
+            },
+            {
+                "word": "Bon",
+                "category": "Describing"
+            },
+            {
+                "word": "Mauvais",
+                "category": "Describing"
+            },
+            {
+                "word": "Matin",
+                "category": "Time"
+            },
+            {
+                "word": "Nuit",
+                "category": "Time"
+            },
+            {
+                "word": "Aujourd'hui",
+                "category": "Time"
+            }
+        ],
+        "sentences": [
+            {
+                "sentence": "Bonjour! Comment allez-vous?",
+                "context": "Greeting"
+            },
+            {
+                "sentence": "Je m'appelle Alex.",
+                "context": "Introduction"
+            },
+            {
+                "sentence": "Où est l'arrêt de bus?",
+                "context": "Directions"
+            },
+            {
+                "sentence": "Puis-je avoir de l'eau?",
+                "context": "Request"
+            },
+            {
+                "sentence": "J'apprends une nouvelle langue.",
+                "context": "Study"
+            },
+            {
+                "sentence": "Il fait beau aujourd'hui.",
+                "context": "Small talk"
+            },
+            {
+                "sentence": "Combien ça coûte?",
+                "context": "Shopping"
+            },
+            {
+                "sentence": "Désolé, je ne comprends pas.",
+                "context": "Conversation"
+            },
+            {
+                "sentence": "Merci pour votre aide.",
+                "context": "Gratitude"
+            },
+            {
+                "sentence": "À demain!",
+                "context": "Farewell"
+            },
+            {
+                "sentence": "Elle va à l'école tous les jours.",
+                "context": "Daily routine"
+            },
+            {
+                "sentence": "J'aime lire des livres.",
+                "context": "Hobbies"
+            },
+            {
+                "sentence": "C'est mon ami.",
+                "context": "Introduction"
+            },
+            {
+                "sentence": "Quelle heure est-il?",
+                "context": "Time"
+            },
+            {
+                "sentence": "J'ai besoin d'aide s'il vous plaît.",
+                "context": "Request"
+            }
+        ]
+    },
+    "japanese": {
+        "name": "日本語",
+        "flag": "🇯🇵",
+        "alphabets": [
+            {
+                "letter": "あ",
+                "pronunciation": "a"
+            },
+            {
+                "letter": "い",
+                "pronunciation": "i"
+            },
+            {
+                "letter": "う",
+                "pronunciation": "u"
+            },
+            {
+                "letter": "え",
+                "pronunciation": "e"
+            },
+            {
+                "letter": "お",
+                "pronunciation": "o"
+            },
+            {
+                "letter": "か",
+                "pronunciation": "ka"
+            },
+            {
+                "letter": "き",
+                "pronunciation": "ki"
+            },
+            {
+                "letter": "く",
+                "pronunciation": "ku"
+            },
+            {
+                "letter": "け",
+                "pronunciation": "ke"
+            },
+            {
+                "letter": "こ",
+                "pronunciation": "ko"
+            },
+            {
+                "letter": "さ",
+                "pronunciation": "sa"
+            },
+            {
+                "letter": "し",
+                "pronunciation": "shi"
+            },
+            {
+                "letter": "す",
+                "pronunciation": "su"
+            },
+            {
+                "letter": "せ",
+                "pronunciation": "se"
+            },
+            {
+                "letter": "そ",
+                "pronunciation": "so"
+            },
+            {
+                "letter": "た",
+                "pronunciation": "ta"
+            },
+            {
+                "letter": "ち",
+                "pronunciation": "chi"
+            },
+            {
+                "letter": "つ",
+                "pronunciation": "tsu"
+            },
+            {
+                "letter": "て",
+                "pronunciation": "te"
+            },
+            {
+                "letter": "と",
+                "pronunciation": "to"
+            },
+            {
+                "letter": "な",
+                "pronunciation": "na"
+            },
+            {
+                "letter": "に",
+                "pronunciation": "ni"
+            },
+            {
+                "letter": "ぬ",
+                "pronunciation": "nu"
+            },
+            {
+                "letter": "ね",
+                "pronunciation": "ne"
+            },
+            {
+                "letter": "の",
+                "pronunciation": "no"
+            }
+        ],
+        "words": [
+            {
+                "word": "こんにちは",
+                "category": "Greetings"
+            },
+            {
+                "word": "さようなら",
+                "category": "Greetings"
+            },
+            {
+                "word": "お願いします",
+                "category": "Manners"
+            },
+            {
+                "word": "ありがとう",
+                "category": "Manners"
+            },
+            {
+                "word": "すみません",
+                "category": "Manners"
+            },
+            {
+                "word": "はい",
+                "category": "Basics"
+            },
+            {
+                "word": "いいえ",
+                "category": "Basics"
+            },
+            {
+                "word": "水",
+                "category": "Food & Drink"
+            },
+            {
+                "word": "食べ物",
+                "category": "Food & Drink"
+            },
+            {
+                "word": "友達",
+                "category": "People"
+            },
+            {
+                "word": "家族",
+                "category": "People"
+            },
+            {
+                "word": "先生",
+                "category": "People"
+            },
+            {
+                "word": "本",
+                "category": "Objects"
+            },
+            {
+                "word": "家",
+                "category": "Places"
+            },
+            {
+                "word": "学校",
+                "category": "Places"
+            },
+            {
+                "word": "嬉しい",
+                "category": "Feelings"
+            },
+            {
+                "word": "悲しい",
+                "category": "Feelings"
+            },
+            {
+                "word": "大きい",
+                "category": "Describing"
+            },
+            {
+                "word": "小さい",
+                "category": "Describing"
+            },
+            {
+                "word": "美しい",
+                "category": "Describing"
+            },
+            {
+                "word": "良い",
+                "category": "Describing"
+            },
+            {
+                "word": "悪い",
+                "category": "Describing"
+            },
+            {
+                "word": "朝",
+                "category": "Time"
+            },
+            {
+                "word": "夜",
+                "category": "Time"
+            },
+            {
+                "word": "今日",
+                "category": "Time"
+            }
+        ],
+        "sentences": [
+            {
+                "sentence": "おはようございます！お元気ですか？",
+                "context": "Greeting"
+            },
+            {
+                "sentence": "私の名前はアレックスです。",
+                "context": "Introduction"
+            },
+            {
+                "sentence": "バス停はどこですか？",
+                "context": "Directions"
+            },
+            {
+                "sentence": "水をいただけますか？",
+                "context": "Request"
+            },
+            {
+                "sentence": "新しい言語を学んでいます。",
+                "context": "Study"
+            },
+            {
+                "sentence": "今日はいい天気ですね。",
+                "context": "Small talk"
+            },
+            {
+                "sentence": "これはいくらですか？",
+                "context": "Shopping"
+            },
+            {
+                "sentence": "すみません、わかりません。",
+                "context": "Conversation"
+            },
+            {
+                "sentence": "助けてくれてありがとう。",
+                "context": "Gratitude"
+            },
+            {
+                "sentence": "また明日！",
+                "context": "Farewell"
+            },
+            {
+                "sentence": "彼女は毎日学校に行きます。",
+                "context": "Daily routine"
+            },
+            {
+                "sentence": "本を読むのが好きです。",
+                "context": "Hobbies"
+            },
+            {
+                "sentence": "これは私の友達です。",
+                "context": "Introduction"
+            },
+            {
+                "sentence": "今何時ですか？",
+                "context": "Time"
+            },
+            {
+                "sentence": "助けてください。",
+                "context": "Request"
+            }
+        ]
+    },
+    "german": {
+        "name": "Deutsch",
+        "flag": "🇩🇪",
+        "alphabets": [
+            {
+                "letter": "A",
+                "pronunciation": "ah"
+            },
+            {
+                "letter": "B",
+                "pronunciation": "beh"
+            },
+            {
+                "letter": "C",
+                "pronunciation": "tseh"
+            },
+            {
+                "letter": "D",
+                "pronunciation": "deh"
+            },
+            {
+                "letter": "E",
+                "pronunciation": "eh"
+            },
+            {
+                "letter": "F",
+                "pronunciation": "eff"
+            },
+            {
+                "letter": "G",
+                "pronunciation": "geh"
+            },
+            {
+                "letter": "H",
+                "pronunciation": "hah"
+            },
+            {
+                "letter": "I",
+                "pronunciation": "ee"
+            },
+            {
+                "letter": "J",
+                "pronunciation": "yot"
+            },
+            {
+                "letter": "K",
+                "pronunciation": "kah"
+            },
+            {
+                "letter": "L",
+                "pronunciation": "ell"
+            },
+            {
+                "letter": "M",
+                "pronunciation": "em"
+            },
+            {
+                "letter": "N",
+                "pronunciation": "en"
+            },
+            {
+                "letter": "O",
+                "pronunciation": "oh"
+            },
+            {
+                "letter": "P",
+                "pronunciation": "peh"
+            },
+            {
+                "letter": "Q",
+                "pronunciation": "koo"
+            },
+            {
+                "letter": "R",
+                "pronunciation": "err"
+            },
+            {
+                "letter": "S",
+                "pronunciation": "ess"
+            },
+            {
+                "letter": "T",
+                "pronunciation": "teh"
+            },
+            {
+                "letter": "U",
+                "pronunciation": "oo"
+            },
+            {
+                "letter": "V",
+                "pronunciation": "fow"
+            },
+            {
+                "letter": "W",
+                "pronunciation": "veh"
+            },
+            {
+                "letter": "X",
+                "pronunciation": "iks"
+            },
+            {
+                "letter": "Y",
+                "pronunciation": "oopsilon"
+            },
+            {
+                "letter": "Z",
+                "pronunciation": "tset"
+            },
+            {
+                "letter": "Ä",
+                "pronunciation": "eh"
+            },
+            {
+                "letter": "Ö",
+                "pronunciation": "uh"
+            },
+            {
+                "letter": "Ü",
+                "pronunciation": "ew"
+            },
+            {
+                "letter": "ß",
+                "pronunciation": "ess-tset"
+            }
+        ],
+        "words": [
+            {
+                "word": "Hallo",
+                "category": "Greetings"
+            },
+            {
+                "word": "Tschüss",
+                "category": "Greetings"
+            },
+            {
+                "word": "Bitte",
+                "category": "Manners"
+            },
+            {
+                "word": "Danke",
+                "category": "Manners"
+            },
+            {
+                "word": "Entschuldigung",
+                "category": "Manners"
+            },
+            {
+                "word": "Ja",
+                "category": "Basics"
+            },
+            {
+                "word": "Nein",
+                "category": "Basics"
+            },
+            {
+                "word": "Wasser",
+                "category": "Food & Drink"
+            },
+            {
+                "word": "Essen",
+                "category": "Food & Drink"
+            },
+            {
+                "word": "Freund",
+                "category": "People"
+            },
+            {
+                "word": "Familie",
+                "category": "People"
+            },
+            {
+                "word": "Lehrer",
+                "category": "People"
+            },
+            {
+                "word": "Buch",
+                "category": "Objects"
+            },
+            {
+                "word": "Haus",
+                "category": "Places"
+            },
+            {
+                "word": "Schule",
+                "category": "Places"
+            },
+            {
+                "word": "Glücklich",
+                "category": "Feelings"
+            },
+            {
+                "word": "Traurig",
+                "category": "Feelings"
+            },
+            {
+                "word": "Groß",
+                "category": "Describing"
+            },
+            {
+                "word": "Klein",
+                "category": "Describing"
+            },
+            {
+                "word": "Schön",
+                "category": "Describing"
+            },
+            {
+                "word": "Gut",
+                "category": "Describing"
+            },
+            {
+                "word": "Schlecht",
+                "category": "Describing"
+            },
+            {
+                "word": "Morgen",
+                "category": "Time"
+            },
+            {
+                "word": "Nacht",
+                "category": "Time"
+            },
+            {
+                "word": "Heute",
+                "category": "Time"
+            }
+        ],
+        "sentences": [
+            {
+                "sentence": "Guten Morgen! Wie geht es Ihnen?",
+                "context": "Greeting"
+            },
+            {
+                "sentence": "Ich heiße Alex.",
+                "context": "Introduction"
+            },
+            {
+                "sentence": "Wo ist die Bushaltestelle?",
+                "context": "Directions"
+            },
+            {
+                "sentence": "Kann ich etwas Wasser haben?",
+                "context": "Request"
+            },
+            {
+                "sentence": "Ich lerne eine neue Sprache.",
+                "context": "Study"
+            },
+            {
+                "sentence": "Das Wetter ist heute schön.",
+                "context": "Small talk"
+            },
+            {
+                "sentence": "Wie viel kostet das?",
+                "context": "Shopping"
+            },
+            {
+                "sentence": "Entschuldigung, ich verstehe nicht.",
+                "context": "Conversation"
+            },
+            {
+                "sentence": "Danke für Ihre Hilfe.",
+                "context": "Gratitude"
+            },
+            {
+                "sentence": "Bis morgen!",
+                "context": "Farewell"
+            },
+            {
+                "sentence": "Sie geht jeden Tag zur Schule.",
+                "context": "Daily routine"
+            },
+            {
+                "sentence": "Ich lese gerne Bücher.",
+                "context": "Hobbies"
+            },
+            {
+                "sentence": "Das ist mein Freund.",
+                "context": "Introduction"
+            },
+            {
+                "sentence": "Wie spät ist es?",
+                "context": "Time"
+            },
+            {
+                "sentence": "Ich brauche Hilfe bitte.",
+                "context": "Request"
+            }
+        ]
+    }
+}

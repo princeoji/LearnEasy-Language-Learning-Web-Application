@@ -1,0 +1,182 @@
+[
+    {
+        "word": "Hello",
+        "meaning": "A greeting used when meeting someone",
+        "example": "Hello, how are you?",
+        "category": "Greetings"
+    },
+    {
+        "word": "Goodbye",
+        "meaning": "A farewell expression",
+        "example": "Goodbye, see you tomorrow!",
+        "category": "Greetings"
+    },
+    {
+        "word": "Please",
+        "meaning": "Used to make a polite request",
+        "example": "Can I have some water, please?",
+        "category": "Manners"
+    },
+    {
+        "word": "Thank you",
+        "meaning": "An expression of gratitude",
+        "example": "Thank you for helping me.",
+        "category": "Manners"
+    },
+    {
+        "word": "Sorry",
+        "meaning": "An expression of apology",
+        "example": "I am sorry for being late.",
+        "category": "Manners"
+    },
+    {
+        "word": "Water",
+        "meaning": "A clear liquid essential for life",
+        "example": "I drink eight glasses of water daily.",
+        "category": "Food & Drink"
+    },
+    {
+        "word": "Food",
+        "meaning": "Substances consumed for nutrition",
+        "example": "The food at this restaurant is delicious.",
+        "category": "Food & Drink"
+    },
+    {
+        "word": "Friend",
+        "meaning": "A person you know and like",
+        "example": "She is my best friend.",
+        "category": "People"
+    },
+    {
+        "word": "Family",
+        "meaning": "A group of related people",
+        "example": "I love spending time with my family.",
+        "category": "People"
+    },
+    {
+        "word": "Teacher",
+        "meaning": "A person who teaches",
+        "example": "My teacher is very kind.",
+        "category": "People"
+    },
+    {
+        "word": "Book",
+        "meaning": "A set of printed pages bound together",
+        "example": "I am reading an interesting book.",
+        "category": "Objects"
+    },
+    {
+        "word": "House",
+        "meaning": "A building where people live",
+        "example": "Our house has a beautiful garden.",
+        "category": "Places"
+    },
+    {
+        "word": "School",
+        "meaning": "A place where children learn",
+        "example": "I go to school every morning.",
+        "category": "Places"
+    },
+    {
+        "word": "Happy",
+        "meaning": "Feeling pleasure or joy",
+        "example": "I am very happy today.",
+        "category": "Feelings"
+    },
+    {
+        "word": "Sad",
+        "meaning": "Feeling unhappy or sorrowful",
+        "example": "She felt sad when her friend left.",
+        "category": "Feelings"
+    },
+    {
+        "word": "Big",
+        "meaning": "Large in size",
+        "example": "The elephant is a big animal.",
+        "category": "Describing"
+    },
+    {
+        "word": "Small",
+        "meaning": "Little in size",
+        "example": "The ant is a very small insect.",
+        "category": "Describing"
+    },
+    {
+        "word": "Beautiful",
+        "meaning": "Pleasing to look at",
+        "example": "The sunset is beautiful.",
+        "category": "Describing"
+    },
+    {
+        "word": "Run",
+        "meaning": "To move quickly on foot",
+        "example": "I like to run in the park.",
+        "category": "Actions"
+    },
+    {
+        "word": "Eat",
+        "meaning": "To consume food",
+        "example": "We eat dinner at 7 PM.",
+        "category": "Actions"
+    },
+    {
+        "word": "Sleep",
+        "meaning": "To rest with eyes closed",
+        "example": "I sleep for eight hours every night.",
+        "category": "Actions"
+    },
+    {
+        "word": "Read",
+        "meaning": "To look at and understand written words",
+        "example": "I read the newspaper every morning.",
+        "category": "Actions"
+    },
+    {
+        "word": "Write",
+        "meaning": "To form letters or words on paper",
+        "example": "Please write your name here.",
+        "category": "Actions"
+    },
+    {
+        "word": "Morning",
+        "meaning": "The early part of the day",
+        "example": "I wake up early in the morning.",
+        "category": "Time"
+    },
+    {
+        "word": "Night",
+        "meaning": "The dark part of the day",
+        "example": "The stars shine at night.",
+        "category": "Time"
+    },
+    {
+        "word": "Today",
+        "meaning": "This present day",
+        "example": "Today is a wonderful day.",
+        "category": "Time"
+    },
+    {
+        "word": "Tomorrow",
+        "meaning": "The day after today",
+        "example": "We have a test tomorrow.",
+        "category": "Time"
+    },
+    {
+        "word": "Color",
+        "meaning": "The property of visual perception",
+        "example": "My favorite color is blue.",
+        "category": "Describing"
+    },
+    {
+        "word": "Music",
+        "meaning": "Sounds arranged in a pleasing way",
+        "example": "I listen to music every day.",
+        "category": "Objects"
+    },
+    {
+        "word": "Garden",
+        "meaning": "A piece of land used for growing plants",
+        "example": "We planted roses in the garden.",
+        "category": "Places"
+    }
+]
